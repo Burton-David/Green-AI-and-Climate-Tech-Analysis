@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+requests
+scipy
+tqdm
+openpyxl  # for Excel file support

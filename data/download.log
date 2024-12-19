@@ -1,0 +1,6 @@
+2024-12-18 20:49:49,338 - INFO - Downloading eGRID data...
+2024-12-18 20:49:50,013 - ERROR - Error downloading egrid2022_data.xlsx: 404 Client Error: Not Found for url: https://www.epa.gov/system/files/documents/2024-01/eGRID2022_data.xlsx
+2024-12-18 20:49:50,014 - INFO - Downloading MLPerf data...
+2024-12-18 20:49:50,317 - ERROR - Error downloading MLPerf data: 404 Client Error: Not Found for url: https://api.github.com/repos/mlcommons/training_results_v3.0/contents/NVIDIA/benchmarks/bert/implementations/pytorch-22.09/results
+2024-12-18 20:49:50,318 - WARNING - Missing files: egrid2022_data.csv, mlperf_results.csv, mlperf_results.json
+2024-12-18 20:49:50,319 - ERROR - Some data files are missing. Check the log for details.
